@@ -1,19 +1,19 @@
 {
-  "version": "1.2.1",
-  "notes": "新增文档说说明\n\n",
-  "pub_date": "2025-10-25T09:24:54Z",
+  "version": "1.2.2",
+  "notes": "发布的新的版本1.2.2\n\n",
+  "pub_date": "2025-10-25T09:40:12Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDMxdWxHcGdNeW15UWFwdEs3c3dpNFJkaTFzUlhmSDlYNmo1MGN6cEtmbVlSdFVYZFN2aXJSeXhISUdldHMxZ2dKVUtwTC9EWE5ENE1kYm4vbUVoS0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzgzOTQ5CWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKc0xDZ3dmcUxIOVRQdEZnU29lSkhHSG1NaW5Gdjh0bExxUFgwRU1VenhvMEZlMlN1YkhnOSs4b2RRbWNQNWRNVlVtYVdNTXJQbFgrM3dWU01tai9oQkE9PQo=",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.1/Yunora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDV6alRreTBzVTUrQ2lvZ2VVMzRyeElERzYycW9SampRaU1NcjNRYzNCQWxyWVVmdWdYaW9LcnJMb3htV2s1QW1tS0JBVTRJYytURVhha2l5VDR6WXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzg1MDIzCWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKVzhER0VBYm5wUkxHV0NnZ01ORGNOWUg4aUhYeWJZdHJUZnMrSnJVNHFwV1hUeGtiVGNRMGxhOGVqUUk4OWVyeTJGRDhvSGVlTlh4QTl6a0ZYZ09ZQnc9PQo=",
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.2/Yunora.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDMxdWxHcGdNeW15UWFwdEs3c3dpNFJkaTFzUlhmSDlYNmo1MGN6cEtmbVlSdFVYZFN2aXJSeXhISUdldHMxZ2dKVUtwTC9EWE5ENE1kYm4vbUVoS0FRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzgzOTQ5CWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKc0xDZ3dmcUxIOVRQdEZnU29lSkhHSG1NaW5Gdjh0bExxUFgwRU1VenhvMEZlMlN1YkhnOSs4b2RRbWNQNWRNVlVtYVdNTXJQbFgrM3dWU01tai9oQkE9PQo=",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.1/Yunora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDV6alRreTBzVTUrQ2lvZ2VVMzRyeElERzYycW9SampRaU1NcjNRYzNCQWxyWVVmdWdYaW9LcnJMb3htV2s1QW1tS0JBVTRJYytURVhha2l5VDR6WXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzg1MDIzCWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKVzhER0VBYm5wUkxHV0NnZ01ORGNOWUg4aUhYeWJZdHJUZnMrSnJVNHFwV1hUeGtiVGNRMGxhOGVqUUk4OWVyeTJGRDhvSGVlTlh4QTl6a0ZYZ09ZQnc9PQo=",
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.2/Yunora.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.1/Yunora_1.2.1_x64-setup.exe"
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.2/Yunora_1.2.2_x64-setup.exe"
     }
   }
 }
