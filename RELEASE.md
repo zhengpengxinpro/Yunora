@@ -1,2 +1,2 @@
-Release v1.1.1
+Release v1.1.2
 Download installers from the releases page.
