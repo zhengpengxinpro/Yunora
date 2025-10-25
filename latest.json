@@ -1,19 +1,19 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2025-10-25T02:42:24Z",
+  "pub_date": "2025-10-25T03:15:55Z",
   "platforms": {
     "darwin-x86_64": {
       "signature": "",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.5/Yunora_1.1.5_x64.app.tar.gz"
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.6/Yunora_1.1.6_x64.app.tar.gz"
     },
     "darwin-aarch64": {
       "signature": "",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.5/Yunora_1.1.5_aarch64.app.tar.gz"
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.6/Yunora_1.1.6_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.5/Yunora_1.1.5_x64-setup.exe"
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.6/Yunora_1.1.6_x64-setup.exe"
     }
   }
 }
