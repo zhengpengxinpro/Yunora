@@ -1,19 +1,19 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "notes": "See the assets to download this version and install.",
-  "pub_date": "2025-10-25T03:15:55Z",
+  "pub_date": "2025-10-25T03:59:38Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.6/Yunora_1.1.6_x64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDdSY0R6K2tuaHlMc1BtTnBzOWUxVmFKdVAzK3RLZzNKL3dUOGllQXBwSStNTytMaEJObncvQjlRcWRsOW8vQ3VxVy85T25hNmpodXlFc2FzRkc0VWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzY0MzQxCWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKamtJcjMwMmtMYmdFSUM1UlFtQkIvRm9jTmhKdVBvNTBqN3g1WTZsWGhyY3lPeXA2cjZCcngwemtnT1lDZEFJaUt3Tlk4VzRBWkZDcGZ5NVprcnp3Q1E9PQo=",
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.7/Yunora.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.6/Yunora_1.1.6_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDdSY0R6K2tuaHlMc1BtTnBzOWUxVmFKdVAzK3RLZzNKL3dUOGllQXBwSStNTytMaEJObncvQjlRcWRsOW8vQ3VxVy85T25hNmpodXlFc2FzRkc0VWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzY0MzQxCWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKamtJcjMwMmtMYmdFSUM1UlFtQkIvRm9jTmhKdVBvNTBqN3g1WTZsWGhyY3lPeXA2cjZCcngwemtnT1lDZEFJaUt3Tlk4VzRBWkZDcGZ5NVprcnp3Q1E9PQo=",
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.7/Yunora.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.6/Yunora_1.1.6_x64-setup.exe"
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.1.7/Yunora_1.1.7_x64-setup.exe"
     }
   }
 }
