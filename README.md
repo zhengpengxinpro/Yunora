@@ -172,7 +172,7 @@ Yunora 采用现代化的前端技术栈和桌面应用开发框架构建。
 
 ### 下载安装
 
-1. 访问 [Releases 页面](https://github.com/pengxinseo/Yunora-app/releases)
+1. 访问 [Releases 页面](https://github.com/zhengpengxinpro/Yunora/releases)
 2. 下载对应系统的安装包：
    - Windows: `.exe` 或 `.msi`
    - macOS: `.dmg`
@@ -238,7 +238,7 @@ Yunora 采用现代化的前端技术栈和桌面应用开发框架构建。
 - **开发者**：zhengpengxin
 - **QQ 交流群**：885221973
 - **微信**：pengxinseo
-- **GitHub**：[Yunora-app](https://github.com/pengxinseo/Yunora-app)
+- **GitHub**：[Yunora](https://github.com/zhengpengxinpro/Yunora)
 
 ---
 
@@ -258,13 +258,14 @@ Yunora 采用现代化的前端技术栈和桌面应用开发框架构建。
 
 ## 相关链接
 
-- 📦 [下载最新版本](https://github.com/pengxinseo/Yunora-app/releases/latest)
+- 📦 [下载最新版本](https://github.com/zhengpengxinpro/Yunora/releases/latest)
 - 📖 [使用文档](./docs/guide.md)
-- 🐛 [问题反馈](https://github.com/pengxinseo/Yunora-app/issues)
-- 💬 [加入讨论](https://github.com/pengxinseo/Yunora-app/discussions)
+- 🐛 [问题反馈](https://github.com/zhengpengxinpro/Yunora/issues)
+- 💬 [加入讨论](https://github.com/zhengpengxinpro/Yunora/discussions)
 
 ---
 
 **立即下载 Yunora，开启您的命理分析之旅！**
 
 #八字排盘 #命理软件 #四柱八字 #开源软件 #桌面应用
+# 发布脚本已添加
