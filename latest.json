@@ -1,19 +1,19 @@
 {
-  "version": "1.2.4",
-  "notes": "发布版本1.2.4 - 修复Windows热更新updater格式\n\nCo-authored-by: factory-droid[bot] <138933559+factory-droid[bot]@users.noreply.github.com>\n\n",
-  "pub_date": "2025-10-26T13:46:39Z",
+  "version": "1.2.5",
+  "notes": "发布版本1.2.5 - 测试Windows热更新\n\nCo-authored-by: factory-droid[bot] <138933559+factory-droid[bot]@users.noreply.github.com>\n\n",
+  "pub_date": "2025-10-26T14:02:49Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDAxNGpYenJMYlJLZm1mMEZPN0pvYXJ2cExsN3N6S1NlaW4wL0thZWUwbXlwUTUreWJhandQbzRLYkVzbEs4aTQvYkdLZWlEclAzeFVtdG5DTlEzMGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNDg2MDk4CWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKVXNLejdId01hbHc3akd6dERLSk40dVVLZW1vUmdvRFFJUG5UcDRzNS8zaVc4WXNISGl3b1RNUlJ5NWQxd3hQOG1kakFGWlExTWMxeERic0YzVVBtQVE9PQo=",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.4/Yunora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaHlSbXdDb2tzbHFPSit4ZURGN1IrOUVJcHpHQjJUVkphSWxra0VXdS93T01ZbGdEODhVNEwvT3hNQ3p2NUJWb3N5NElxVm53R1VBR1Y0YmlJNStEbEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNDg3MTc1CWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKZXlRZXFUQnlNT3V3R1Nud01vMU9YWFFQTDBJeWgwU25uYlJvcko1RERiRzNJT2hkMityOFZ2Qm5aOTh1WVFBNUl2Y0VmN0dvalROTzZick4zMFJLQkE9PQo=",
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.5/Yunora.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDAxNGpYenJMYlJLZm1mMEZPN0pvYXJ2cExsN3N6S1NlaW4wL0thZWUwbXlwUTUreWJhandQbzRLYkVzbEs4aTQvYkdLZWlEclAzeFVtdG5DTlEzMGdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNDg2MDk4CWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKVXNLejdId01hbHc3akd6dERLSk40dVVLZW1vUmdvRFFJUG5UcDRzNS8zaVc4WXNISGl3b1RNUlJ5NWQxd3hQOG1kakFGWlExTWMxeERic0YzVVBtQVE9PQo=",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.4/Yunora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaHlSbXdDb2tzbHFPSit4ZURGN1IrOUVJcHpHQjJUVkphSWxra0VXdS93T01ZbGdEODhVNEwvT3hNQ3p2NUJWb3N5NElxVm53R1VBR1Y0YmlJNStEbEE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNDg3MTc1CWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKZXlRZXFUQnlNT3V3R1Nud01vMU9YWFFQTDBJeWgwU25uYlJvcko1RERiRzNJT2hkMityOFZ2Qm5aOTh1WVFBNUl2Y0VmN0dvalROTzZick4zMFJLQkE9PQo=",
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.5/Yunora.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDk1TnlndGtvNWV4REdNelQrSlRzeTUvdStETnRLaWc4ZHN1dURYSzFnWFFOclM5WDcwRno3RWwrYjB6VnFEZG1SOG9ES3VDTFczM1VRdXcwenRnVkFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNDg2MzgwCWZpbGU6WXVub3JhXzEuMi40X3g2NC1zZXR1cC5uc2lzLnppcAorMFFwdDJoU0JuYWtvMEV2bVh3aUE2TW9BYmFVZHUwYWtBaHlTaU1CeDNZQzFEK0l2dFZ3blM3OXorZlJ5S1E3TjZnbUNGdnVRbTdFN0NNS1VFNE5BUT09Cg==",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.4/Yunora_1.2.4_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDlXNDBpTmRNRWJsN2NVemhvMVlQZnEzbGFURmVTOWZSZjZqODVmVFc5ajlKK3NUSTR2VmFpRUt5aXZyUnlpa2daRTkvNkNNVXp1Y29rR01QUFgxL0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNDg3MzQ3CWZpbGU6WXVub3JhXzEuMi41X3g2NC1zZXR1cC5uc2lzLnppcApQUlNFWGM5UXVWZm1NOFhyeVQ1QVZNQ0c4RWMxQ1pGRUpncU5zMG96dGJrb2luZTNuRXpsa2kyeEJYSEJRNkpZcWlMczMwU3FkckdDVlVJdXlSK09Edz09Cg==",
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.5/Yunora_1.2.5_x64-setup.nsis.zip"
     }
   }
 }
