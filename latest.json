@@ -1,19 +1,19 @@
 {
-  "version": "1.2.2",
-  "notes": "发布的新的版本1.2.2\n\n",
-  "pub_date": "2025-10-25T09:40:12Z",
+  "version": "1.2.3",
+  "notes": "发布版本1.2.3 - 修复Windows热更新\n\nCo-authored-by: factory-droid[bot] <138933559+factory-droid[bot]@users.noreply.github.com>\n\n",
+  "pub_date": "2025-10-26T13:25:08Z",
   "platforms": {
     "darwin-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDV6alRreTBzVTUrQ2lvZ2VVMzRyeElERzYycW9SampRaU1NcjNRYzNCQWxyWVVmdWdYaW9LcnJMb3htV2s1QW1tS0JBVTRJYytURVhha2l5VDR6WXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzg1MDIzCWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKVzhER0VBYm5wUkxHV0NnZ01ORGNOWUg4aUhYeWJZdHJUZnMrSnJVNHFwV1hUeGtiVGNRMGxhOGVqUUk4OWVyeTJGRDhvSGVlTlh4QTl6a0ZYZ09ZQnc9PQo=",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.2/Yunora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDdTQVZwdFBEbmFaUjN4b1dBVFZKWEdwV0l4a0FtVzJyY0t1ZDhseVd3TU43MXFmM3RReURsdnBkelNYMWl1WVFZdGN3Z3ZMM05JMzhnRHhUakVaYmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNDg0Nzk2CWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKYXcwZG02czB2THJkcStkUDllcEpmdXJOZmF2L1lESzJZaFRDWjN4YUpyQmtVcVVXMjdQOUVWZlEweGhNRTI2NXIwdnI5Y2p3aGN0UCszbE9nSEhLQmc9PQo=",
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.3/Yunora.app.tar.gz"
     },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDV6alRreTBzVTUrQ2lvZ2VVMzRyeElERzYycW9SampRaU1NcjNRYzNCQWxyWVVmdWdYaW9LcnJMb3htV2s1QW1tS0JBVTRJYytURVhha2l5VDR6WXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMzg1MDIzCWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKVzhER0VBYm5wUkxHV0NnZ01ORGNOWUg4aUhYeWJZdHJUZnMrSnJVNHFwV1hUeGtiVGNRMGxhOGVqUUk4OWVyeTJGRDhvSGVlTlh4QTl6a0ZYZ09ZQnc9PQo=",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.2/Yunora.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTSndrbUcvY01JaDdTQVZwdFBEbmFaUjN4b1dBVFZKWEdwV0l4a0FtVzJyY0t1ZDhseVd3TU43MXFmM3RReURsdnBkelNYMWl1WVFZdGN3Z3ZMM05JMzhnRHhUakVaYmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxNDg0Nzk2CWZpbGU6WXVub3JhLmFwcC50YXIuZ3oKYXcwZG02czB2THJkcStkUDllcEpmdXJOZmF2L1lESzJZaFRDWjN4YUpyQmtVcVVXMjdQOUVWZlEweGhNRTI2NXIwdnI5Y2p3aGN0UCszbE9nSEhLQmc9PQo=",
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.3/Yunora.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "",
-      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.2/Yunora_1.2.2_x64-setup.exe"
+      "url": "https://github.com/zhengpengxinpro/Yunora/releases/download/v1.2.3/Yunora_1.2.3_x64-setup.nsis.zip"
     }
   }
 }
